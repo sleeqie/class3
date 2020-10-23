@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1603468355385.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2781504170",
+    "id" : "D78A235D",
+    "lastKnownWriteTime" : 1603474593,
+    "last_content_update" : 1603474593883,
+    "path" : "~/Desktop/training/class3/class3.R",
+    "project_path" : "class3.R",
+    "properties" : {
+        "cursorPosition" : "144,7",
+        "scrollLine" : "134",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
